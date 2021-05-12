@@ -20,11 +20,11 @@
 
     b. Como espiral
     
-        a b c d e
-        p q r s f
-        o x y t g
-        n w v u h
-        m l k j i
+        a b c d e       → → → → ↓
+        p q r s f       → → → ↓ ↓
+        o x y t g       ↑ → ○ ↓ ↓
+        n w v u h       ↑ ↑ ← ← ↓
+        m l k j i       ↑ ← ← ← ←
 
  
  
